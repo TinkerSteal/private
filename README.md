@@ -1,6 +1,14 @@
 ## Welcome to Sea
 <h1>Sea</h1>
 
+<select>
+  <option value="shea">Shea</option>
+  <option value="drink">Drink</option>
+  <option value="care">Care</option>
+  <option value="audi">Audi</option>
+</select>
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
